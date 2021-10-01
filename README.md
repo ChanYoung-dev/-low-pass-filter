@@ -18,3 +18,9 @@
 -  실험에 사용되는 계측기(osilloscope, function generator, power supply) 사용 능력 향상 및 계측기 동작 이해 
 -  저항, 캐패시터 ,Transformer, Diode, Regulator, OP Amp IC 등의 부품 사용 능력 향상
 -  Simulation Tool(Orcad)  사용 능력 향상 
+
+### 회로 설계
+
+![목표](./목표회로.png)
+
+더 많은 내용은 보고서확인
